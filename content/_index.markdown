@@ -46,24 +46,39 @@ My primary research interests are in **domain-specific large language models (LL
 ## Publications
 (*: Corresponding author)
 
-#### Preprints
--   **Multi-level querying using a knowledge pyramid**<br>
-    **Rubing Chen**, Xulu Zhang, Jiaxin Wu, Wenqi Fan, Xiao-Yong Wei, Qing Li*<br>
-    *arXiv: 2407.21276* [[arXiv]](https://arxiv.org/abs/2407.21276)
-
--   **MolGround: A Benchmark for Molecular Grounding**<br>
-    Jiaxin Wu, Ting Zhang, **Rubing Chen**, Wengyu Zhang, Chen Jason Zhang, Xiao-Yong Wei*, Li Qing<br>
-    *arXiv: 2503.23668* [[arXiv]](https://arxiv.org/abs/2503.23668)
-
--   **Probabilistic Optimality for Inference-time Scaling**<br>
+#### 2026
+-   **OptScale: Probabilistic Optimality for Inference-time Scaling**<br>
     Youkang Wang, Jian Wang, **Rubing Chen**, Xiao-Yong Wei*<br>
-    *arXiv: 2506.22376* [[arXiv]](https://arxiv.org/abs/2506.22376)
+    *AAAI Conference on Artificial Intelligence (AAAI), 2026* (Accepted)<br>
+    [arXiv:2506.22376](https://arxiv.org/abs/2506.22376)
 
 #### 2025
 -   **Benchmarking for Domain-Specific LLMs: A Case Study on Academia and Beyond**<br>
     **Rubing Chen**, Jiaxin Wu, Jian Wang, Xulu Zhang, Wenqi Fan, Chenghua Lin, Xiao-Yong Wei*, Qing Li<br>
     *Findings of the Empirical Methods in Natural Language Processing (EMNLP-Findings), 2025*<br>
     [arXiv](https://arxiv.org/abs/2508.07353) | [Paper]() | [Github]()
+
+-   **Knowledge Pyramid Construction for Multi-Level Retrieval-Augmented Generation**<br>
+    **Rubing Chen**, Xulu Zhang, Jiaxin Wu, Wenqi Fan, Xiao-Yong Wei, Qing Li*<br>
+    *International Conference on Web-Based Learning (ICWL), 2025* (Oral)<br>
+    [arXiv:2407.21276](https://arxiv.org/abs/2407.21276)
+
+#### Preprints
+-   **MarkovScale: Towards Optimal Sequential Scaling at Inference Time**<br>
+    Youkang Wang, Jian Wang, **Rubing Chen**, Tianyi Zeng, Xiao-Yong Wei, Qing Li<br>
+    *arXiv:2602.01120* [[arXiv]](https://arxiv.org/abs/2602.01120)
+
+-   **To Retrieve or To Think? An Agentic Approach for Context Evolution**<br>
+    **Rubing Chen**, Jian Wang, Wenjie Li, Xiao-Yong Wei, Qing Li<br>
+    *arXiv:2601.08747* [[arXiv]](https://arxiv.org/abs/2601.08747)
+
+-   **OptPO: Optimal Rollout Allocation for Test-time Policy Optimization**<br>
+    Youkang Wang, Jian Wang, **Rubing Chen**, Tianyi Zeng, Xiao-Yong Wei, Qing Li<br>
+    *arXiv:2512.02882* [[arXiv]](https://arxiv.org/abs/2512.02882)
+
+-   **MolGround: A Benchmark for Molecular Grounding**<br>
+    Jiaxin Wu, Ting Zhang, **Rubing Chen**, Wengyu Zhang, Chen Jason Zhang, Xiao-Yong Wei*, Li Qing<br>
+    *arXiv:2503.23668* [[arXiv]](https://arxiv.org/abs/2503.23668)
 
 
 ---
